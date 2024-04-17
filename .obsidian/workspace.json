@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "8512bf3f985701c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cd0f38f469518e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "453234f596e31cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configurations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be472959a9c8845e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f21799340a5f7b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e7a4f090a9567e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62668b83904a6a88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3df66a085f5c493",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bca272092f551681",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 438.5
+  },
+  "right": {
+    "id": "dd7a99d433b8ef62",
+    "type": "split",
+    "children": [
+      {
+        "id": "041b78ccd2f8f360",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "5362ee1905844cee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Configurations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5623ccde40ec118e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Configurations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4924fc7b10955aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc496c97b1966991",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Configurations.md"
+              }
+            }
+          },
+          {
+            "id": "5e69e29c180d7d0c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "8a8e6fd703166c3e",
+        "type": "tabs",
+        "dimension": 40.81920903954802,
+        "children": [
+          {
+            "id": "5e3f9fd03985677c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c1e8084d4b00019e",
+        "type": "tabs",
+        "dimension": 25.847457627118644,
+        "children": [
+          {
+            "id": "331692a4efd9c9c4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "dbfolder:Create a new database table": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "453234f596e31cb2",
+  "lastOpenFiles": [
+    "README.md",
+    "ml_vault/README.md",
+    "ml_vault",
+    "Configurations.md",
+    "calendar/daily/17-04-2024.md",
+    "inbox/2024-04-11 - Proximal Policy Optimization Algorithms.md",
+    "calendar/daily/16-04-2024.md",
+    "templates/weekly_note_template.md",
+    "templates/daily_note_template.md",
+    "calendar/daily/15-04-2024.md",
+    "templates/paper_template.md",
+    "calendar/daily/07-04-2024.md",
+    "calendar/daily/08-04-2024.md",
+    "09-04-2024.md",
+    "14-04-2024.md",
+    "inbox/2024-04-08 - Proximal Policy Optimization Algorithms.md",
+    "media/zotero/schulmanProximalPolicyOptimization2017/schulmanProximalPolicyOptimization2017-2-x146-y224.png",
+    "test.md",
+    "inbox/2024-04-07 - Proximal Policy Optimization Algorithms.md",
+    "Page 1.md",
+    "inbox/& 2024-04-07 Proximal Policy Optimization Algorithms.md",
+    "media/zotero/schulmanProximalPolicyOptimization2017",
+    "media/zotero",
+    "media",
+    "inbox",
+    "Tests.md",
+    "calendar/yearly/2024.md",
+    "calendar/monthly/04-2024.md",
+    "calendar/daily/05-04-2024.md",
+    "calendar/weekly/2024-W14.md",
+    "calendar/weekly/Untitled.md",
+    "calendar/yearly",
+    "calendar/weekly",
+    "calendar/quarterly",
+    "calendar/monthly",
+    "calendar/daily",
+    "Untitled.canvas",
+    "Portfolio Website/Pictures/Marrillo Carrillo - Infinite plain.png",
+    "Portfolio Website/Pictures/Mario Carrillo - Side bar.png"
+  ]
+}

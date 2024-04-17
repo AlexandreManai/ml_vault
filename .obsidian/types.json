@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "publish": "checkbox",
+    "meditation": "checkbox",
+    "typing": "checkbox",
+    "coding": "checkbox"
+  }
+}

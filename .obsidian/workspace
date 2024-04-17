@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "8512bf3f985701c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5de0b3b3af57713",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be472959a9c8845e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f21799340a5f7b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e7a4f090a9567e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "62668b83904a6a88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3df66a085f5c493",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd7a99d433b8ef62",
+    "type": "split",
+    "children": [
+      {
+        "id": "041b78ccd2f8f360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5362ee1905844cee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5623ccde40ec118e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4924fc7b10955aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc496c97b1966991",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b5de0b3b3af57713",
+  "lastOpenFiles": [
+    "Portfolio Website/Inspiration - Mario Carrillo.md",
+    "Portfolio Website/Test link.md",
+    "Portfolio Website/Pictures/Marrillo Carrillo - Infinite plain.png",
+    "Portfolio Website/Pictures/Mario Carrillo - Side bar.png",
+    "2022-08-18.md"
+  ]
+}
