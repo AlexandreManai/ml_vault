@@ -6,6 +6,7 @@
     "publish": "checkbox",
     "meditation": "checkbox",
     "typing": "checkbox",
-    "coding": "checkbox"
+    "coding": "checkbox",
+    "date": "date"
   }
 }
