@@ -5,6 +5,7 @@ aliases:
   - "@mauludReviewLinearRegression2020"
 tags:
   - research
+  - machineLearning
 authors: Dastan Maulud, Adnan M. Abdulazeez
 year: "2020"
 ---

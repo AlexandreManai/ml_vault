@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff74d72640f8a51",
+        "id": "e3736f68f4723c00",
         "type": "tabs",
         "children": [
           {
-            "id": "1adfc8ecc3f6dbc5",
+            "id": "cf0cc55dc4c37a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/Polynomial Regression.md",
+                "file": "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#research",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
       {
         "id": "041b78ccd2f8f360",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 56.32458233890215,
         "children": [
           {
             "id": "5362ee1905844cee",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/Polynomial Regression.md",
+                "file": "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/Polynomial Regression.md",
+                "file": "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/Polynomial Regression.md"
+                "file": "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md"
               }
             }
           },
@@ -154,24 +154,9 @@
         "currentTab": 4
       },
       {
-        "id": "8a8e6fd703166c3e",
-        "type": "tabs",
-        "dimension": 40.81920903954802,
-        "children": [
-          {
-            "id": "5e3f9fd03985677c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "c1e8084d4b00019e",
         "type": "tabs",
-        "dimension": 25.847457627118644,
+        "dimension": 43.67541766109785,
         "children": [
           {
             "id": "331692a4efd9c9c4",
@@ -199,20 +184,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1adfc8ecc3f6dbc5",
+  "active": "cf0cc55dc4c37a79",
   "lastOpenFiles": [
-    "theory/Simple Linear Regression.md",
-    "theory/Multivariate Linear Regression.md",
-    "theory/Polynomial Regression.md",
-    "Least Squares Method for Multivariate Regression.md",
-    "templates/theory_note_template.md",
-    "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
-    "Polynomial Regression.md",
     "media/theory/simple_linear_regression_plot.png",
+    "media/theory/least_squares_method.png",
+    "calendar/daily/21-04-2024.md",
+    "calendar/daily/20-04-2024.md",
+    "calendar/daily/17-04-2024.md",
+    "calendar/daily/16-04-2024.md",
+    "calendar/daily/15-04-2024.md",
+    "theory/Simple Linear Regression.md",
+    "theory/Least Squares Method.md",
+    "theory/Polynomial Regression.md",
+    "theory/Multivariate Linear Regression.md",
+    "templates/theory_note_template.md",
+    "theory/Untitled.md",
+    "templates/paper_template.md",
+    "templates/weekly_note_template.md",
+    "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
+    "calendar/weekly/2024-W16.md",
+    "inbox/2024-04-22 - ImageNet Classification with Deep Convolutional Neural Networks.md",
+    "Least Squares Method for Multivariate Regression.md",
+    "Polynomial Regression.md",
     "media/theory",
     "19-04-2024.md",
     "2024-04-21.md",
-    "templates/paper_template.md",
     "inbox/2024-04-11 - Proximal Policy Optimization Algorithms.md",
     "README.md",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-3-x51-y581.png",
@@ -221,24 +217,13 @@
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-2-x311-y669.png",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-2-x309-y91.png",
     "media/zotero/mauludReviewLinearRegression2020",
-    "calendar/daily/20-04-2024.md",
-    "calendar/daily/17-04-2024.md",
     "Configurations.md",
-    "calendar/daily/15-04-2024.md",
-    "calendar/daily/16-04-2024.md",
-    "templates/weekly_note_template.md",
     "templates/daily_note_template.md",
     "theory",
     "cheatsheets",
     "ml_vault/README.md",
     "ml_vault",
-    "calendar/daily/07-04-2024.md",
-    "calendar/daily/08-04-2024.md",
-    "09-04-2024.md",
-    "14-04-2024.md",
-    "inbox/2024-04-08 - Proximal Policy Optimization Algorithms.md",
     "media/zotero/schulmanProximalPolicyOptimization2017/schulmanProximalPolicyOptimization2017-2-x146-y224.png",
-    "test.md",
     "media/zotero/schulmanProximalPolicyOptimization2017",
     "media/zotero",
     "media",
