@@ -1,4 +1,8 @@
 {
   "accentColor": "#6334e5",
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "big-math"
+  ]
 }
