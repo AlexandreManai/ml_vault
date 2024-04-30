@@ -19,7 +19,7 @@ link:
 # Usage
 Creation of virtual environments is done by executing the command `venv`:
 
-```bash 
+```console
 python -m venv /path/to/venv/virtual/environment 
 ```
 
