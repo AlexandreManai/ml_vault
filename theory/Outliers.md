@@ -13,9 +13,9 @@ Statistically an Outlier is a data point which differs from other observations. 
 ![[outlier_boxplot.png]]
 
 # Definitions
-- *Mean (average) $\bar{x}$*: 
+- *[[Mean]] (average) $\bar{x}$*: 
 $$ \bar{x} = \frac{1}{n} \sum_{i=1}^n x_i $$
-- *Median*: middle value of a dataset when it is ordered in ascending order
+- *[[Median]]*: middle value of a dataset when it is ordered in ascending order
 $$\begin{cases} x_{\frac{n+1}{2}} & \text{if } n \text{ is odd} \\ \frac{x_{\frac{n}{2}} + x_{\frac{n}{2} + 1}}{2} & \text{if } n \text{ is even} \end{cases}$$
 - *First Quartile (Q1)*: median of the data values that fall below the median of the entire dataset (25%)
 - *Third Quartile (Q3)*: median of the data values that fall above the median of the entire dataset (75%)

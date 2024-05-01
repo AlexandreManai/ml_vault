@@ -11,12 +11,8 @@
             "id": "a2e57dac1ec0eb24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Python venv.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#paper",
+                "query": "tag:#theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Python venv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Python venv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "coding/Python venv.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,44 +179,44 @@
   },
   "active": "a2e57dac1ec0eb24",
   "lastOpenFiles": [
-    "calendar/daily/29-04-2024.md",
+    "coding/Resize image markdown.md",
+    "theory/Median.md",
+    "theory/Outliers.md",
+    "theory/Mean.md",
     "coding/Python venv.md",
+    "theory/Least Squares Method.md",
+    "Pasted image 20240429211702.png",
+    "theory/Simple Linear Regression.md",
+    "theory/Multivariate Linear Regression.md",
+    "theory/Polynomial Regression.md",
+    "media/theory/simple_linear_regression_plot.png",
+    "media/theory/mean_median_mode.png",
+    "calendar/daily/29-04-2024.md",
     "coding",
     "Configurations.md",
-    "Pasted image 20240429211702.png",
     "calendar/daily/24-04-2024.md",
     "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
-    "theory/Multivariate Linear Regression.md",
-    "theory/Least Squares Method.md",
-    "theory/Outliers.md",
-    "theory/Simple Linear Regression.md",
     "Outliers.md",
     "media/theory/outlier_boxplot.png",
     "media/theory/outlier_boxplot.jpg",
     "calendar/daily/23-04-2024.md",
     "calendar/daily/21-04-2024.md",
-    "media/theory/simple_linear_regression_plot.png",
     "media/theory/least_squares_method.png",
     "calendar/daily/20-04-2024.md",
     "calendar/daily/17-04-2024.md",
     "calendar/daily/16-04-2024.md",
     "calendar/daily/15-04-2024.md",
-    "theory/Polynomial Regression.md",
     "templates/theory_note_template.md",
     "templates/paper_template.md",
     "templates/weekly_note_template.md",
     "calendar/weekly/2024-W16.md",
     "inbox/2024-04-22 - ImageNet Classification with Deep Convolutional Neural Networks.md",
     "Least Squares Method for Multivariate Regression.md",
-    "Polynomial Regression.md",
     "media/theory",
-    "19-04-2024.md",
-    "2024-04-21.md",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-3-x51-y581.png",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-2-x41-y406.png",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-2-x36-y150.png",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-2-x311-y669.png",
-    "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-2-x309-y91.png",
     "media/zotero/mauludReviewLinearRegression2020",
     "theory",
     "cheatsheets",
