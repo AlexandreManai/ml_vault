@@ -24,7 +24,7 @@ link:
 
 2. **Odd vs. Even Number of Observations**:
     - **Problem**: The method for calculating median changes based on whether the data set has an odd or even number of observations, which can affect interpretations in small data sets.
-    - **Example**: For the data set 1, 2, 3, the median is 2. However, if another observation, say 4, is added, the median becomes \( \frac{2+3}{2} = 2.5 \).
+    - **Example**: For the data set 1, 2, 3, the median is 2. However, if another observation, say 4, is added, the median becomes $\frac{2+3}{2} = 2.5$ .
 
 3. **Inefficiency in Large Data Sets**:
     - **Problem**: Finding the median in large data sets can be computationally intensive as it requires sorting the data.
