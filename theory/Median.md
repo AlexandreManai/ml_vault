@@ -2,6 +2,7 @@
 publish: 
 tags:
   - theory
+  - machineLearning
 date: 2024-05-01
 link:
 ---
