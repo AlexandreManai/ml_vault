@@ -8,7 +8,7 @@ link:
 ---
 # Introduction
 - **Median** is a measure of central tendency that identifies the middle value of a data set when arranged in order.
-- Unlike mean, median is less sensitive to outliers and skewed data, making it useful in various statistical contexts.
+- Unlike mean, median is less sensitive to outliers and skewed data, making it useful in various statistical contexts
 
 ![[mean_median_mode.png | 200]]
 
