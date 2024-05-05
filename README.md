@@ -37,7 +37,7 @@ Your contributions make our community stronger:
 
 ## Join Our Live Streams
 
-Catch [me](https://github.com/AlexandreManai) live on Twitch at [Link](https://www.twitch.tv/iokkol)
+Catch [me](https://github.com/AlexandreManai) live on Twitch at [Link](https://www.twitch.tv/okkolearns)
 
 ## Contributors
 
