@@ -7,7 +7,7 @@ link:
 ---
 # Introduction
 - A **mean** is a numeric quantity representing the center of a collection of numbers and is intermediate to the extreme values of a set of numbers.
-- There are different types of means: Arithmetic mean (AM), Geometric Mean (GM), Harmonic Mean (HM)
+- There are different types of means: Arithmetic mean (AM), Geometric Mean (GM), Harmonic Mean (HM).
 
 ![[mean_median_mode.png | 200]]
 # Definitions
