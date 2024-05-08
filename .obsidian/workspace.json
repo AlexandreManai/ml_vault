@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/Mean.md",
+                "file": "theory/Multivariate Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/Mean.md",
+                "file": "theory/Multivariate Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/Mean.md",
+                "file": "theory/Multivariate Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/Mean.md"
+                "file": "theory/Multivariate Linear Regression.md"
               }
             }
           },
@@ -186,10 +186,11 @@
   },
   "active": "a2e57dac1ec0eb24",
   "lastOpenFiles": [
+    "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
+    "theory/Mean.md",
     "theory/Median.md",
     "coding/Resize image markdown.md",
     "theory/Outliers.md",
-    "theory/Mean.md",
     "coding/Python venv.md",
     "theory/Least Squares Method.md",
     "Pasted image 20240429211702.png",
@@ -202,7 +203,6 @@
     "coding",
     "Configurations.md",
     "calendar/daily/24-04-2024.md",
-    "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
     "Outliers.md",
     "media/theory/outlier_boxplot.png",
     "media/theory/outlier_boxplot.jpg",

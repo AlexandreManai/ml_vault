@@ -11,7 +11,7 @@ link:
 
 * Multivariate Linear Regression is an extension of simple linear regression to predict an outcome based on multiple predictors.
 * This model incorporates several independent variables that influence the dependent variable.
-* It is widely used in areas where multiple variables affect a response variable, such as economics, consumer behavior, and health sciences.
+* It is widely used in areas where multiple variables affect a response variable, such as economics, consumer behavior, and health sciences
 
 # Definitions
 - **Dependent Variable (y)**: The variable that is being predicted or estimated.
