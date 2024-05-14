@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/Multivariate Linear Regression.md",
+                "file": "theory/Least Squares Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/Multivariate Linear Regression.md",
+                "file": "theory/Least Squares Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/Multivariate Linear Regression.md",
+                "file": "theory/Least Squares Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/Multivariate Linear Regression.md"
+                "file": "theory/Least Squares Method.md"
               }
             }
           },
@@ -186,6 +186,10 @@
   },
   "active": "a2e57dac1ec0eb24",
   "lastOpenFiles": [
+    "calendar/daily/14-05-2024.md",
+    "calendar/daily/29-04-2024.md",
+    "Configurations.md",
+    "theory/Multivariate Linear Regression.md",
     "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
     "theory/Mean.md",
     "theory/Median.md",
@@ -195,13 +199,10 @@
     "theory/Least Squares Method.md",
     "Pasted image 20240429211702.png",
     "theory/Simple Linear Regression.md",
-    "theory/Multivariate Linear Regression.md",
     "theory/Polynomial Regression.md",
     "media/theory/simple_linear_regression_plot.png",
     "media/theory/mean_median_mode.png",
-    "calendar/daily/29-04-2024.md",
     "coding",
-    "Configurations.md",
     "calendar/daily/24-04-2024.md",
     "Outliers.md",
     "media/theory/outlier_boxplot.png",
@@ -218,7 +219,6 @@
     "templates/weekly_note_template.md",
     "calendar/weekly/2024-W16.md",
     "inbox/2024-04-22 - ImageNet Classification with Deep Convolutional Neural Networks.md",
-    "Least Squares Method for Multivariate Regression.md",
     "media/theory",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-3-x51-y581.png",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-2-x41-y406.png",

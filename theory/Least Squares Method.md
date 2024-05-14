@@ -8,7 +8,7 @@ link:
 ---
 # Introduction
 
-The Least Squares method is a foundational approach used in regression analysis to find the best-fitting model to data. This method works by minimizing the sum of the squares of the differences (residuals) between observed values and those predicted by the model.
+The Least Squares method is a foundational approach used in regression analysis to find the best-fitting model to data. This method works by minimizing the sum of the squares of the differences (residuals) between observed values and those predicted by the model
 
 ![[least_squares_method.png]]
 # Definitions
