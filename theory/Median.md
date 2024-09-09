@@ -1,5 +1,5 @@
 ---
-publish: 
+publish: true
 tags:
   - theory
   - machineLearning

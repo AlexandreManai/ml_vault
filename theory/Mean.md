@@ -1,5 +1,5 @@
 ---
-publish: 
+publish: true
 tags:
   - theory
 date: 2024-05-01

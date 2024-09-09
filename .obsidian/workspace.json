@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4dc39ce265cf1b3",
+        "id": "449427b5b8f2f717",
         "type": "tabs",
         "children": [
           {
-            "id": "a2e57dac1ec0eb24",
+            "id": "78e831f462f60a26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "theory/Least Squares Method.md",
+                "file": "theory/courses/reinforcement learning specialization/The k-armed Bandit Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 354.5
   },
   "right": {
     "id": "dd7a99d433b8ef62",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "theory/Least Squares Method.md",
+                "file": "theory/courses/reinforcement learning specialization/The k-armed Bandit Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "theory/Least Squares Method.md",
+                "file": "theory/courses/reinforcement learning specialization/The k-armed Bandit Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "theory/Least Squares Method.md"
+                "file": "theory/courses/reinforcement learning specialization/The k-armed Bandit Problem.md"
               }
             }
           },
@@ -184,22 +184,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2e57dac1ec0eb24",
+  "active": "78e831f462f60a26",
   "lastOpenFiles": [
-    "calendar/daily/14-05-2024.md",
-    "calendar/daily/29-04-2024.md",
-    "Configurations.md",
-    "theory/Multivariate Linear Regression.md",
-    "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
-    "theory/Mean.md",
-    "theory/Median.md",
-    "coding/Resize image markdown.md",
-    "theory/Outliers.md",
-    "coding/Python venv.md",
-    "theory/Least Squares Method.md",
-    "Pasted image 20240429211702.png",
+    "theory/courses/reinforcement learning specialization/The Fundamentals of RL Objectives.md",
+    "theory/courses/reinforcement learning specialization/Introduction.md",
+    "theory/courses/reinforcement learning specialization/The k-armed Bandit Problem.md",
+    "theory/courses/reinforcement learning specialization/Fundamentals of RL Ob.md",
     "theory/Simple Linear Regression.md",
     "theory/Polynomial Regression.md",
+    "theory/Outliers.md",
+    "theory/Mean.md",
+    "theory/Median.md",
+    "theory/Multivariate Linear Regression.md",
+    "inbox/2024-04-21 - A Review on Linear Regression Comprehensive in Machine Learning.md",
+    "theory/courses/reinforcement learning specialization",
+    "theory/courses",
+    "calendar/daily/25-05-2024.md",
+    "calendar/daily/14-05-2024.md",
+    "calendar/daily/29-04-2024.md",
+    "24-05-2024.md",
+    "coding/Python venv.md",
+    "theory/Least Squares Method.md",
+    "Configurations.md",
+    "coding/Resize image markdown.md",
+    "Pasted image 20240429211702.png",
     "media/theory/simple_linear_regression_plot.png",
     "media/theory/mean_median_mode.png",
     "coding",
@@ -213,12 +221,6 @@
     "calendar/daily/20-04-2024.md",
     "calendar/daily/17-04-2024.md",
     "calendar/daily/16-04-2024.md",
-    "calendar/daily/15-04-2024.md",
-    "templates/theory_note_template.md",
-    "templates/paper_template.md",
-    "templates/weekly_note_template.md",
-    "calendar/weekly/2024-W16.md",
-    "inbox/2024-04-22 - ImageNet Classification with Deep Convolutional Neural Networks.md",
     "media/theory",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-3-x51-y581.png",
     "media/zotero/mauludReviewLinearRegression2020/mauludReviewLinearRegression2020-2-x41-y406.png",
@@ -230,8 +232,6 @@
     "ml_vault",
     "media/zotero/schulmanProximalPolicyOptimization2017",
     "media/zotero",
-    "media",
-    "inbox",
     "Untitled.canvas"
   ]
 }
